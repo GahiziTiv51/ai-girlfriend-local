@@ -90,3 +90,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: ai-girlfriend-local, ai-girlfriend, companion, local, voice, memory, offline, chat, persona, cli, developer-tools, open-source, windows, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+ai-girlfriend companion local voice memory offline chat persona ai-companion-local local-ai-girlfriend ai-girlfriend-local windows portable prebuilt x64 free download
+related: ai-girlfriend, companion, local, voice, memory, offline, chat, persona
